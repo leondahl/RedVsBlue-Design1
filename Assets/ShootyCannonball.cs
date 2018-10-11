@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ShootyCannonball : MonoBehaviour
 {
-
+    //This goes on the Cannonball
     public Rigidbody2D cannonballBody;
     [Range(0.1f, 1f)]
     public float speed;
