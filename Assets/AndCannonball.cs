@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class AndCannonball : MonoBehaviour
 {
+    //This goes on the boat
+    
     [Header("Cannonball")]
     public float firerate = 0.9f;
     public float cooldown = 1;
